@@ -329,7 +329,7 @@ export default function Personagens() {
     >
       <div className="pointer-events-none absolute inset-x-0 top-0 -z-20 h-275 overflow-hidden">
         <Image
-          src="/img/banner-personagens.png"
+          src="/img/banner-personagens2.png"
           alt=""
           fill
           priority
@@ -338,7 +338,7 @@ export default function Personagens() {
         />
       </div>
 
-      <div className="pointer-events-none absolute inset-0 -z-10 bg-[#10080c]/55" />
+      <div className="pointer-events-none absolute inset-0 -z-10 bg-[#10080c]/10" />
 
       <div className="pointer-events-none absolute inset-x-0 top-0 z-0 h-36 bg-linear-to-b from-[#10080c] to-transparent" />
 
